@@ -18,21 +18,6 @@ Atuo também com **segurança web, autenticação avançada (WebAuthn)** e **sup
 
 ---
 
-## 📂 Projetos em Destaque
-🔐 [**Sistema de Login Seguro em PHP**](https://github.com/SEU-USUARIO/login-seguro) – Implementação com hash seguro, PDO e controle de sessão  
-⚡ [**Automação Google Drive API**](https://github.com/SEU-USUARIO/drive-upload) – Upload automático com nomes dinâmicos  
-🌐 [**Exemplo de API RESTful**](https://github.com/SEU-USUARIO/api-exemplo) – Estrutura base para APIs modernas  
-
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onivaldomiquelino)  
 📧 **onivaldomiquelino@gmail.com**
