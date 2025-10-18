@@ -1,5 +1,8 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0055aa&height=150&section=header&text=👋%20Olá,%20eu%20sou%20Onivaldo%20Miquelino&fontColor=ffffff&fontSize=25&animation=fadeIn&fontAlignY=30" width="100%"/>
+<img src="https://avatars.githubusercontent.com/ninomiquelino" width="100" height="100" style="border-radius: 50%">
+</div>
+
 <p align="center"><strong>Desenvolvedor Full Stack | PHP, JavaScript, APIs & Segurança Web</strong></p>
 
 ---
