@@ -11,7 +11,7 @@
 Sou **Desenvolvedor Full Stack** com experiência em:
 - **PHP, JavaScript, SQL, APIs e Automação**  
 - **Segurança web (CSP) e autenticação avançada (WebAuthn)**
-- **Integração entre ERP e CRM via APIs REST, aumentando a confiabilidade dos dados e reduzindo o tempo de resposta**  
+- **Integração entre ERP e CRM via APIs REST**, aumentando a confiabilidade dos dados e reduzindo o tempo de resposta
 - **Suporte técnico avançado** para ambientes corporativos  
 - Criação de **soluções eficientes e escaláveis** para web e sistemas internos
 
