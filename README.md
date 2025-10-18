@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 Sou **Desenvolvedor Full Stack** com experiência em:
 - **PHP, JavaScript, SQL, APIs e Automação**  
-- **Segurança web e autenticação avançada (WebAuthn)**  
+- **Segurança web (CSP) e autenticação avançada (WebAuthn)**  
 - **Suporte técnico avançado** para ambientes corporativos  
 - Criação de **soluções eficientes e escaláveis** para web e sistemas internos
 
@@ -18,6 +18,16 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
