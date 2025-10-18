@@ -10,7 +10,8 @@
 ## 🚀 Sobre mim
 Sou **Desenvolvedor Full Stack** com experiência em:
 - **PHP, JavaScript, SQL, APIs e Automação**  
-- **Segurança web (CSP) e autenticação avançada (WebAuthn)**  
+- **Segurança web (CSP) e autenticação avançada (WebAuthn)**
+- **Integração entre ERP e CRM via APIs REST, aumentando a confiabilidade dos dados e reduzindo o tempo de resposta**  
 - **Suporte técnico avançado** para ambientes corporativos  
 - Criação de **soluções eficientes e escaláveis** para web e sistemas internos
 
@@ -24,6 +25,9 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
