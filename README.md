@@ -39,7 +39,8 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 <p align="center"> 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onivaldomiquelino)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinoMiquelino)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinoMiquelino)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/ContatoOnivaldo)
 </p>
 
 📧 **onivaldomiquelino@gmail.com**
