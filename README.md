@@ -35,6 +35,13 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 ![CSP](https://img.shields.io/badge/CSP-4E9A06?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)
 ![ERP ↔ CRM](https://img.shields.io/badge/Integração%20ERP%20%E2%86%94%20CRM%20via%20APIs%20REST-F46A25?style=for-the-badge&logo=zapier&logoColor=white)
+
+![Suporte Técnico Avançado](https://img.shields.io/badge/Suporte%20Técnico%20Avançado-00599C?style=for-the-badge&logo=headset&logoColor=white)
+
+![Suporte Técnico Avançado](https://img.shields.io/badge/Suporte%20Técnico%20Avançado-2F77A1?style=for-the-badge&logo=tools&logoColor=white)
+
+![Suporte Técnico Avançado](https://img.shields.io/badge/Suporte%20Técnico%20Avançado-555555?style=for-the-badge)
+
 </p>
 
 ---
