@@ -35,16 +35,6 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 ![CSP](https://img.shields.io/badge/CSP-4E9A06?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)
 ![ERP ↔ CRM](https://img.shields.io/badge/Integração%20ERP%20%E2%86%94%20CRM%20via%20APIs%20REST-F46A25?style=for-the-badge&logo=zapier&logoColor=white)
-
-![ERP ↔ CRM](https://img.shields.io/badge/Integração%20ERP%20%E2%86%94%20CRM-009688?style=for-the-badge&logo=swagger&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs%20REST-009688?style=for-the-badge&logo=json&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WebAuthn](https://img.shields.io/badge/WebAuthn-2F77A1?style=for-the-badge&logo=fido-alliance&logoColor=white)
-![CSP](https://img.shields.io/badge/CSP-4E9A06?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)
-![ERP ↔ CRM](https://img.shields.io/badge/Integração%20ERP%20%E2%86%94%20CRM%20via%20APIs%20REST-F46A25?style=for-the-badge&logo=zapier&logoColor=white)
-
 </p>
 
 ---
