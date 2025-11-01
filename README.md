@@ -31,6 +31,9 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![WebAuthn](https://img.shields.io/badge/WebAuthn-00599C?style=for-the-badge&logo=fido-alliance&logoColor=white)
+![CSP](https://img.shields.io/badge/CSP-FF6F00?style=for-the-badge&logo=shield&logoColor=white)
 </p>
 
 ---
