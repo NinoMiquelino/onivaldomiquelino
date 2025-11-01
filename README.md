@@ -33,6 +33,11 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![WebAuthn](https://img.shields.io/badge/WebAuthn-2F77A1?style=for-the-badge&logo=fido-alliance&logoColor=white)
 ![CSP](https://img.shields.io/badge/CSP-4E9A06?style=for-the-badge&logo=shield&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WebAuthn](https://img.shields.io/badge/WebAuthn-2F77A1?style=for-the-badge&logo=fido-alliance&logoColor=white)
+![CSP 🛡️](https://img.shields.io/badge/CSP-4E9A06?style=for-the-badge)
+
 </p>
 
 ---
