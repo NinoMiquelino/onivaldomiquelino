@@ -33,8 +33,7 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![WebAuthn](https://img.shields.io/badge/WebAuthn-2F77A1?style=for-the-badge&logo=fido-alliance&logoColor=white)
 ![CSP](https://img.shields.io/badge/CSP-4E9A06?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=json&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)
 </p>
 
 ---
@@ -45,12 +44,6 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onivaldomiquelino)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinoMiquelino)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://bit.ly/ContatoOnivaldo)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WebAuthn](https://img.shields.io/badge/WebAuthn-2F77A1?style=for-the-badge&logo=fido-alliance&logoColor=white)
-![CSP](https://img.shields.io/badge/CSP-4E9A06?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)
-
 </p>
 
 📧 **onivaldomiquelino@gmail.com**
