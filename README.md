@@ -34,6 +34,10 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 
 ![WebAuthn](https://img.shields.io/badge/WebAuthn-00599C?style=for-the-badge&logo=fido-alliance&logoColor=white)
 ![CSP](https://img.shields.io/badge/CSP-FF6F00?style=for-the-badge&logo=shield&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WebAuthn](https://img.shields.io/badge/WebAuthn-2F77A1?style=for-the-badge&logo=fido-alliance&logoColor=white)
+![CSP](https://img.shields.io/badge/CSP-4E9A06?style=for-the-badge&logo=shield&logoColor=white)
 </p>
 
 ---
