@@ -44,6 +44,8 @@ Sou **Desenvolvedor Full Stack** com experiência em:
 
 ![Suporte Técnico Avançado](https://img.shields.io/badge/Suporte%20Técnico%20Avançado-00599C?style=for-the-badge&logo=githubactions&logoColor=white)
 
+![Suporte Técnico Avançado 🛠️](https://img.shields.io/badge/Suporte%20Técnico%20Avançado%20🛠️-0A66C2?style=for-the-badge)
+
 </p>
 
 ---
